@@ -23,3 +23,10 @@ slt:
 	
 slti:
 	(setOn less than immediate) compare a values with another number and output 1 if value < number
+
+beq:
+	(branch_If_Equal)check two values are equal or not and call appropriate functions
+	
+bne:
+	(branch_If_Not_Equal)
+	

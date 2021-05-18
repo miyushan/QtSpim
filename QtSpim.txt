@@ -30,3 +30,6 @@ beq:
 bne:
 	(branch_If_Not_Equal)
 	
+j:
+	jump instruction
+	

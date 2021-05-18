@@ -33,3 +33,6 @@ bne:
 j:
 	jump instruction
 	
+bgt:
+	(branch_If_Greater_than) usefull for IF ELSE functions
+	

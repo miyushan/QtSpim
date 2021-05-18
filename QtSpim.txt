@@ -8,3 +8,12 @@ mult for multipile and give resut from HIGH and LOW registers
 devide:
 	remainder- HIGH
 	quotient - LOW
+	
+lw:
+	to get an value from a different kind of implementation
+	
+sw:
+	(store word) is used to assign the address of a different value to another value
+	
+move:
+	use to copy a value of a different number to another number easily

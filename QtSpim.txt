@@ -4,3 +4,7 @@ $s0 to $s7	for output values
 addi for increment values
 
 mult for multipile and give resut from HIGH and LOW registers
+
+devide:
+	remainder- HIGH
+	quotient - LOW

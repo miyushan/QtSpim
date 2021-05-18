@@ -3,7 +3,7 @@
 	.globl main
 	
 main:
-	li $t0, 10
+	li $t0, 17
 	li $t1, 05
 	div $t0, $t1
 	li $v0, 10

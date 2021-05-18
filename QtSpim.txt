@@ -17,3 +17,9 @@ sw:
 	
 move:
 	use to copy a value of a different number to another number easily
+	
+slt:
+	(setOn less than) compare two values and output 1 if firstOne < SecondOne
+	
+slti:
+	(setOn less than immediate) compare a values with another number and output 1 if value < number

@@ -11,4 +11,4 @@ main:
 	li $v0, 10
 	syscall
 		
-msg: .asciiz "Shakeer Miyushan"
+msg: .asciiz "\nShakeer\tMiyushan"
